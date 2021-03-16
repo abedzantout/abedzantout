@@ -7,7 +7,7 @@
 - 🔭 I’m currently working with everything Javascript!
 - 🌱 I’m currently learning Quantum Finance
 - 👯 I’m looking to collaborate on open source projects 🤝
-- 💬 Ask me anything [here](https://github.com/abed-zantout/abed-zantout/issues) related to <b>Javascript(Any framework!), AWS, Alexa & Machine Learning.</b>
+- 💬 Ask me anything [here](https://github.com/abedzantout/abedzantout/issues) related to <b>Javascript(Any framework!), AWS, Alexa & Machine Learning.</b>
 - 📫 How to reach me: Ping me on [Twitter] or say 👋  on Email at [Abed Zantout](mailto:abed@techhive.io)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a secret influencer account that no one knows about.
