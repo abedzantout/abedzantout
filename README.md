@@ -10,6 +10,7 @@
 - 💬 Ask me anything [here](https://github.com/abedzantout/abedzantout/issues) related to <b>Javascript(Any framework!), AWS, Alexa & Machine Learning.</b>
 - 📫 How to reach me: Ping me on [Twitter] or say 👋  on Email at [Abed Zantout](mailto:abed@techhive.io)
 - 😄 Pronouns: He/Him
+- 📚 You can read my articles on [Medium]
 - ⚡ Fun fact: I have a secret influencer account that no one knows about.
 
 
@@ -28,6 +29,7 @@ Currently, this is where you will find most of my code-related work. I'm a profe
 [<img align="left" alt="Abdul Rahman Zantout | Twitter" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ftwitter.svg?alt=media&token=0e4ffc45-d873-47ee-b08c-9b98b4fe66cf" />][Twitter]
 [<img align="left" alt="Abdul Rahman Zantout | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="Abdul Rahman Zantout | website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Abdul Rahman Zantout | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
 <br />
 
 <br />
@@ -36,3 +38,4 @@ Currently, this is where you will find most of my code-related work. I'm a profe
 [linkedin]: https://www.linkedin.com/in/abdulrahmanzantout/
 [Twitter]: https://twitter.com/abdulzantout
 [github]: https://github.com/abedzantout
+[medium]: https://medium.com/@abedzantout
