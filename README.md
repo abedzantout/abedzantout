@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I have a secret influencer account that no one knows about.
 
 
-Currently, this is where you will find most of my code-related work. I'm a professional Full Stack Software Expert and Software Architect. Node and Javascript Enthusiast with a deep understanding of web technologies, high-performance and data-intensive applications, cloud infrastructures and finance. 
+Currently, this is where you will find most of my code-related work. I'm a professional Full Stack Software Expert and Software Architect. I'm every bit of a Node and Javascript Enthusiast with a deep understanding of web technologies, high-performance and data-intensive applications, cloud infrastructures and finance. 
 
 ### 📊 GitHub Stats:
 ![Abed's github stats](https://github-readme-stats.vercel.app/api?username=abedzantout&count_private&include_all_commits=true&hide_title=true&show_icons=true&theme=highcontrast)
