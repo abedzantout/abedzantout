@@ -18,7 +18,7 @@ Currently, this is where you will find most of my code-related work. I'm a profe
 ### 📊 GitHub Stats:
 ![Abed's github stats](https://github-readme-stats.vercel.app/api?username=abedzantout&count_private&include_all_commits=true&hide_title=true&show_icons=true&theme=highcontrast)
 
-**Research Interests:** *Quantum physics, Financial Modelling, Scalable Architectures, Data Intensive pipes, *   
+**Research Interests:** *Quantum physics, Financial Modelling, Scalable Architectures, Data Intensive pipes*   
 **Specialties:** *Distributed Computing, Decentralization, Parallel Processing Architecture, Statistical Computing, Scalable Front-End Architectures, API Architectures*  
 **Hobby Areas**: *Blockchain, Finance, Data Visualization*
 
