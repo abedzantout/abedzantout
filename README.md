@@ -17,7 +17,7 @@
 Currently, this is where you will find most of my code-related work. I'm a professional Full Stack Software Expert and Software Architect. I'm every bit of a Node and Javascript Enthusiast with a deep understanding of web technologies, high-performance and data-intensive applications, cloud infrastructures and finance. 
 
 ### 📊 GitHub Stats:
-![Abed's github stats](https://github-readme-stats.vercel.app/api?username=abedzantout&count_private&include_all_commits=true&hide_title=true&show_icons=true&theme=highcontrast)
+![Abed's github stats](https://github-readme-stats.vercel.app/api?username=abedzantout&show_icons=true&icon_color=EA8621&count_private=true&bg_color=30,16498A,1A2944&title_color=fff&text_color=fff)
 
 **Research Interests:** *Quantum physics, Financial Modelling, Scalable Architectures, Data Intensive pipes*   
 **Specialties:** *Distributed Computing, Decentralization, Parallel Processing Architecture, Statistical Computing, Scalable Front-End Architectures, API Architectures*  
