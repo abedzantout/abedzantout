@@ -4,7 +4,7 @@
 **abedzantout/abedzantout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working with everything Javascript!
+- 🔭 I’m currently the CTO of [FarmLend](https://www.farmlend.co.uk), a fintech startup focused on orchestrating supply chains and offering innovative payment solutions for sellers of fresh produce.
 - 🌱 I’m currently learning Quantum Finance
 - 👯 I’m looking to collaborate on open source projects 🤝
 - 💬 Ask me anything [here](https://github.com/abedzantout/abedzantout/issues) related to <b>Javascript(Any framework!), AWS, Alexa & Machine Learning.</b>
