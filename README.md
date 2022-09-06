@@ -9,7 +9,6 @@
 - 👯 I’m looking to collaborate on open source projects 🤝
 - 💬 Ask me anything [here](https://github.com/abedzantout/abedzantout/issues) related to <b>Javascript(Any framework!), AWS, Alexa & Machine Learning.</b>
 - 📫 How to reach me: Ping me on [Twitter] or say 👋  on Email at [Abed Zantout](mailto:abed@techhive.io)
-- 😄 Pronouns: He/Him
 - 📚 You can read my articles on [Medium]
 - ⚡ Fun fact: I have a secret influencer account that no one knows about.
 
