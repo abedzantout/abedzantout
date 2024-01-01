@@ -33,10 +33,10 @@ Beyond my professional role, I'm an avid contributor to open-source projects, re
 
 #
 
-### 📊 GitHub Stats:
+### 📊 Stats:
 ![Abed's github stats](https://github-readme-stats.vercel.app/api?username=abedzantout&show_icons=true&icon_color=EA8621&count_private=true&bg_color=30,16498A,1A2944&title_color=fff&text_color=fff)
 
-### Where to find me
+### 🌍 Where to find me
 
 [<img align="left" alt="Abdul Rahman Zantout | Linkdin" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Flinkedin.svg?alt=media&token=0e662ab8-db11-475a-9c43-18d89bcdfde0" />][linkedin]
 [<img align="left" alt="Abdul Rahman Zantout | Twitter" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ftwitter.svg?alt=media&token=0e4ffc45-d873-47ee-b08c-9b98b4fe66cf" />][Twitter]
