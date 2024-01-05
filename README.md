@@ -34,7 +34,7 @@ Beyond my professional role, I'm an avid contributor to open-source projects, re
 #
 
 ### 📊 Stats:
-![Abed's github stats](https://github-readme-stats.vercel.app/api?username=abedzantout&show_icons=true&icon_color=EA8621&count_private=true&bg_color=30,16498A,1A2944&title_color=fff&text_color=fff)
+![Abed's github stats](https://github-readme-stats-beryl-one-29.vercel.app/api?username=abedzantout&show_icons=true&icon_color=EA8621&count_private=true&bg_color=30,16498A,1A2944&title_color=fff&text_color=fff)
 
 ### 🌍 Where to find me
 
